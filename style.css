@@ -1,0 +1,19 @@
+h1 {
+  text-align: center;
+}
+
+form {
+  display: block;
+  border: 1px solid black;
+  padding: 20px;
+  width: 60%;
+  margin: auto;
+}
+
+#results {
+  font-size: 12px;
+}
+
+.hidden {
+  display: none;
+}
